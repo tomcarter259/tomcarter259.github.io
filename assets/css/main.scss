@@ -2,11 +2,15 @@
 # Jekyll needs front matter for CSS files.
 ---
 
+/* Set Hydeout CSS variables here. The available variables are defined here: https://github.com/fongandrew/hydeout/blob/master/_sass/hydeout/_variables.scss */
+
 $root-font-family: "Avenir Light", -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif !default;
 
 $sidebar-bg-color: #212529;
 
+/* Override style in the main.css file below this line. */
+
 @import "hydeout";
 
-#sidebar .site-title { font-family: "Avenir Light"; }
+#sidebar .site-title { font-family: "Avenir Light", -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif; }
 

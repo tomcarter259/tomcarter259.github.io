@@ -5,11 +5,13 @@ permalink: /bookshelf/
 sidebar_link: true
 ---
 
-I love sharing book reccomendations with people. 
+I love sharing book recommendations with people. Every book I read comes through a friend, a tweet or a book list. I plan to build my own list here and maybe someone will find something they enjoy.
 
-I keep a list of every book that I read and make notes on those that are useful to reference again in the future. 
+Every book below has taught me something that often I use.
 
-The list is in no particular order. 
+I don’t read a lot of fiction and I won’t add many to this list even if they are "un-put-down-able" (e.g. Ready Player One). Every now and again a fiction book blows my mind and makes me think differently or gives me inspiration. These are on the list (e.g. The Martian).
+
+The list is in no particular order.
 
 - [Factfulness](https://amzn.to/31FKcru): Ten Reasons We're Wrong About The World - And Why Things Are Better Than You Think _by Hans Rosling_
 - [Radical Candor](https://amzn.to/31Gkrr3): How to Get What You Want by Saying What You Mean _by Kim Scott_
@@ -27,9 +29,11 @@ The list is in no particular order.
 - [The First 90 Days](https://amzn.to/31I8eT4): Critical Success Strategies for New Leaders at All Levels _by Michael D Watkins_
 - [The Lean Startup](https://amzn.to/2uw9Tii): How Constant Innovation Creates Radically Successful Businesses _by Eric Ries_
 - [The Hard Thing About Hard Things](https://amzn.to/2UAX94r): Building a Business When There Are No Easy Answers _by Ben Horowitz_
-- [Ready Player One](https://amzn.to/37fTRWV) _by Ernest Cline_
+- [The Hitchhiker's Guide to the Galaxy](https://amzn.to/39kxzVt) _by Douglas Adams_ 
 - [Sprint](https://amzn.to/2Sdk3gA): How To Solve Big Problems and Test New Ideas in Just Five Days _by Jake Knapp_
 - [Elon Musk](https://amzn.to/2SugXUH): How the Billionaire CEO of SpaceX and Tesla is Shaping our Future _by Ashlee Vance_
 - [Losing My Virginity](https://amzn.to/31IlXt4) _by Richard Branson_
 - [The Martian](https://amzn.to/2uwaO2e) _by Andy Weir_
+
+📚 What have I missed? Let me know: [@{{ site.twitter_username }}](https://www.twitter.com/{{ site.twitter_username }})
 

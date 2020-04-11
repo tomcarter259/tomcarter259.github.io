@@ -7,9 +7,7 @@ sidebar_link: true
 
 I love sharing book recommendations with people. Every book I read comes through a friend, a tweet or a book list. I plan to build my own list here and maybe someone will find something they enjoy.
 
-Every book below has taught me something that often I use.
-
-I don’t read a lot of fiction and I won’t add many to this list even if they are "un-put-down-able" (e.g. Ready Player One). Every now and again a fiction book blows my mind and makes me think differently or gives me inspiration. These are on the list (e.g. The Martian).
+Every book below has taught me something that I use often. I don’t read a lot of fiction and I won’t add many to this list.
 
 The list is in no particular order.
 

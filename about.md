@@ -5,15 +5,25 @@ permalink: /about/
 sidebar_link: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello! 👋
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm a Co-Founder and CTO of [Ultraleap](https://www.ultraleap.com). Ultraleap was formerly known as Ultrahaptics and Leap Motion.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Prior to founding Ultraleap, I was a PhD student in the Bristol Interaction Group (BIG) at the University of Bristol. 
 
+I am on the advisory board for the Computer Science Department at the University of Bristol.
 
-[jekyll-organization]: https://github.com/jekyll
+I live in [Bristol](https://en.wikipedia.org/wiki/Bristol) in the UK.
+
+I occasionally post photos from my travels on [Instagram](https://www.instagram.com/iamtomcarter/).
+
+You can get in contact with me on [Twitter](https://twitter.com/iamtomcarter).
+
+## About this site
+
+This site is:
+- Hosted on [GitHub Pages](https://github.com/tomcarter259/tomcarter259.github.io)
+- Coded with [Vim](https://www.vim.org/)
+- Built on [Jekyll](https://jekyllrb.com/)
+- Based on the [Hydeout theme](https://github.com/fongandrew/hydeout) by [Andrew Fong](https://www.andrewfong.com).
+

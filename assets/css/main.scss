@@ -14,3 +14,8 @@ $sidebar-bg-color: #212529;
 
 #sidebar .site-title { font-family: "Avenir Light", -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif; }
 
+/* General style additions and adjustments */
+
+// image captions
+img + em { display: block; text-align: center; font-size: smaller; }
+

@@ -13,6 +13,7 @@ description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: iamtomcarter
+google_analytics: UA-31047059-2
 
 paginate: 5
 permalink: /blog/:year/:title/

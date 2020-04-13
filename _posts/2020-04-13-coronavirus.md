@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Coronavirus?"
-date:   2020-04-11
+date:   2020-04-13
 ---
 I have been off sick recently with what I think is coronavirus. I wrote up my experience with a symptoms log and posted it for the team at [Ultraleap](https://www.ultraleap.com). Lots of people found it useful so I thought I would share.
 

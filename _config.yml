@@ -9,7 +9,7 @@
 
 title: Tom Carter
 description: >-
-  Co-Founder and CTO of Ultraleap
+#  Co-Founder and CTO of Ultraleap
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: iamtomcarter

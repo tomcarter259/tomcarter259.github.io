@@ -19,3 +19,12 @@ $sidebar-bg-color: #212529;
 // image captions
 img + em { display: block; text-align: center; font-size: smaller; }
 
+// profile picture
+#profile-picture img {
+   border-radius: 50%;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 40%;
+}
+
